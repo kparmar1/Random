@@ -108,6 +108,12 @@ class Solution {
         input = "aaaaaaaaaaaaaaaaaaaaaaaaa";
         process(solution,input, 10);
 
+        input = "aaaaaaaaaaaaaaaaaaaaaaaaa";
+        process(solution,input, 9);
+
+        input = "aaaaaaaaaaaaaaaaaaaaaaaaa";
+        process(solution,input, 32);
+
         input = "abc";
         process(solution,input, 1);
 
